@@ -76,7 +76,3 @@ Once the DNS propagates (usually takes a few minutes), your beautifully animated
 
 3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
----
-
-## 📄 License
-This project is open source and based on the 3D portfolio template by [Naresh Khatri](https://github.com/Naresh-Khatri/3d-portfolio).
